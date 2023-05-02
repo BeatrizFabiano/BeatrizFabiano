@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Bia 👋
 
-- 🔭 Atualmente estou trabalhando com desenvolvimento fullstack.
+- 🔭 Atualmente estou trabalhando para ser uma desenvolvedora fullstack.
 - 🌱 Estudando Typescript.
 - 👯 A procura de novas oportunidade no mercado da tecnologia.
 
